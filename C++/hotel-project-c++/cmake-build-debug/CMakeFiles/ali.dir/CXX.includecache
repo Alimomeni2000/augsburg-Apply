@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/momeni/hotel-project-c/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+stdio.h
+-
+termcolor.hpp
+/home/momeni/hotel-project-c/termcolor.hpp
+
+/home/momeni/hotel-project-c/termcolor.hpp
+unistd.h
+-
+io.h
+-
+windows.h
+-
+iostream
+-
+cstdio
+-
+
